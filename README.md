@@ -11,11 +11,7 @@ The main focus of this project is creating a simple, attractive, and mobile-frie
 ---
 ## 📸 Project Preview
 
-Here is a preview of the Responsive Pricing Table project:
-
-![Responsive Pricing Table Preview]()
-
-
+![Responsive Pricing Table Preview](https://raw.githubusercontent.com/Joni250/Responsive-Pricing-Table-Using-Bootstrap-5/main/preview.png)
 
 
 ## 🔗 Live Preview
